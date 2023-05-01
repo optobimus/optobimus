@@ -29,6 +29,10 @@ Today, I'm captivated by web development. Creating new experiences, implementing
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
+<a href="https://tailwindcss.com/" rel="nofollow">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a>
