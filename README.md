@@ -17,7 +17,7 @@ Today, I'm captivated by web development. Creating new experiences, implementing
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
-<a href="https://www.typescriptlang.org/"
+<a href="https://www.typescriptlang.org/">
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 </a>
 
