@@ -1,7 +1,5 @@
 # Tobias Winkler
 
-**`Born with a passion for innovation`**
-
 Hi there! I'm Tobi.
 Growing up, I always had an affinity for everything tech related. Jailbreaking my first iPod or installing custom ROMs on my android phones (and nearly bricking them) were some of the things that developed my problem solving skills.
 
